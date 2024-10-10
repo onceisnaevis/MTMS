@@ -185,6 +185,7 @@ connection.close()
 
 
 '''
+#Used in SQL for Creating Table
 CREATE DATABASE IF NOT EXISTS movie_ticket_db;
 USE movie_ticket_db;
 
